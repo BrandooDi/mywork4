@@ -9,7 +9,7 @@
 import sys
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     m = int(input("Введите номер дня в недели: "))
 
     if m == 1:

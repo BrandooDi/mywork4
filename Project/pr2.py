@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 import sys
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     n = int(input("Введите номер месяца: "))
 
     if n == 1 or n == 2 or n == 12:

@@ -8,7 +8,7 @@
 и стипендию.
 """
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     grants = int(input("ежемесячная стипендия"))
     expenses = int(input("ежемесячные расходы"))
     months = 10

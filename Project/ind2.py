@@ -5,7 +5,7 @@
 Вывести на экран большее из трёх заданных чисел.
 """
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     a, b, c = int(input()), int(input()), int(input())
     mx = a
 
